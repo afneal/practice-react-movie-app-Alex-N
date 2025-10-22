@@ -1,1 +1,18 @@
 
+#app {
+   color: black; 
+}
+
+#root {
+    place-items: center;
+    
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+#dropDownList {
+    padding-bottom: 20px;
+    
+}
